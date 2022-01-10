@@ -11,7 +11,7 @@
 
 <p align="center">
   👋 Hi, I’m Lenz<br>
-  👨🏾‍🏫 I teach cloud technologies in Google's Equity Through Technology program  
+  👨🏾‍🏫 I teach cloud technologies as part of Google's Equity Through Technology program  
 </p>
 
 <p align="center">
